@@ -15,9 +15,9 @@
 #### Normal installation
 ```
 # Download the bot
-git clone 
+git clone https://github.com/TheGoGlider/GSelfBot
 # Enter the bot folder
-cd SharpBot
+cd GSelfBot 
 # Install dependencies
 yarn install
 ```
