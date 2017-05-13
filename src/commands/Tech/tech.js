@@ -14,7 +14,7 @@ exports.run = (bot, message) => {
             }],
             color: 0x99FFFF,
         }
-    });
+    }).then(m => m.delete(120000));
 };
 
 exports.info = {
