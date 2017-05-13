@@ -19,7 +19,7 @@ git clone https://github.com/TheGoGlider/GSelfBot
 # Enter the bot folder
 cd GSelfBot 
 # Install dependencies
-yarn install
+yarn install (for some people you need to do: npm install)
 ```
 
 Now run `yarn start` to start the bot. 
